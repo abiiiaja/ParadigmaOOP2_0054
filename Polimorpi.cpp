@@ -22,3 +22,7 @@ public:
         cout << "Pesan dari Lia." << endl;
     }
 };
+
+int main() {
+
+}
